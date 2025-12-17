@@ -1,0 +1,14 @@
+newfile.txt
+Created: 2025-12-17
+Owner: abara
+
+Purpose:
+- Brief description: (replace with file purpose)
+
+TODO:
+- [ ] Add content / notes
+- [ ] Add examples or code snippets
+- [ ] Finalize and save
+
+Notes:
+- Use this file for quick drafts, plans, or snippets.
